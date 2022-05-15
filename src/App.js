@@ -14,16 +14,7 @@ import Sansi from './Sansi'
 function App() {
   return (
     <div className="App">
-    {/* <Form/> */}
-      {/* <Counter/>  */}
-      {/* <Dataset/>  */}
-     {/* <Header/>
-     <Input/> 
-     <Output/> */}
-     {/* <MenuCard/>  */}
-     {/* <Resturant/>   */}
-     {/* <Navbar/>    */}
-     {/* <Sansi/> */}
+       <Resturant/> 
     </div>
   );
 }
